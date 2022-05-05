@@ -3,7 +3,14 @@ module.exports = {
     './src/**/*.html'
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'herogradient': "url('/img/hypercolor.jpeg')",
+        'herocolor': "url('/img/hypercolor2.jpeg')",
+        'heropink': "url('/img/hyperpink.jpeg')",
+
+      }
+    },
   },
   plugins: [],
 }
