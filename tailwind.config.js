@@ -40,6 +40,10 @@ module.exports = {
         'radial-at-br':
           'radial-gradient(ellipse at bottom right, var(--tw-gradient-stops))'
       },
+      fontFamily: {
+      display: ["Montserrat", "sans-serif"],
+      facade: ["Hind", "sans-serif"],
+    },
     },
   },
   plugins: [],
