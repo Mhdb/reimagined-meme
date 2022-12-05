@@ -43,6 +43,7 @@ module.exports = {
       fontFamily: {
       display: ["Montserrat", "sans-serif"],
       facade: ["Hind", "sans-serif"],
+      fusain: ["Rammetto One", "cursive"],
     },
     },
   },
